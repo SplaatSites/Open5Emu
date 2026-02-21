@@ -2,6 +2,6 @@
 Open-source early PS5 Emulator
 
 
-##Building
+#Building
 
 1. Open 'main.cpp' on Code::blocks and Press F9.
